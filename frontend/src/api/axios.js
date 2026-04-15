@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Base URL pointing to Spring Boot backend
 const api = axios.create({
-  baseURL: 'http://localhost:8081',
+  baseURL: 'http://13.63.58.248:8081',
 });
 
 // Attach JWT token to every request automatically
