@@ -13,7 +13,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/drivers")
-@CrossOrigin(origins = "http://localhost:3000")
 public class DriverController {
 
     @Autowired
