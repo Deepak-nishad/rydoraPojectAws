@@ -1,0 +1,34 @@
+# Build folders
+target/
+build/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+
+# Spring Boot
+.restart
+
+# IDE files
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
